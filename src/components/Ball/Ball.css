@@ -1,0 +1,9 @@
+.ball {
+  display: block;
+  background-color: brown;
+  width: 1px;
+  height: 1px;
+  padding: 10px;
+  border-radius: 50%;
+  position: absolute;
+}
